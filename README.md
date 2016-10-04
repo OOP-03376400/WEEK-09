@@ -19,11 +19,12 @@ Generic ช่วยให้ลดภาระในการเขียนโ
 </p>
 
 เราอาจแก้ไขโดยการสร้างคลาสขึ้นมา เพื่อใช้เฉพาะกับชนิดข้อมูลต่างๆ เช่น
+###Class myIntStack
 ``` cs
 class myIntStack
 {
     int stackPointer = 0;
-    
+    int[] StackArray;
     public void Push(int x)
     {
        // push data into stack
@@ -32,7 +33,27 @@ class myIntStack
     public int Pop()
     {
        // pop data into stack
-       return Pop_data;
+       return Pop_int_data;
+    }
+    ....
+}
+
+```
+###Class myFloatStack
+``` cs
+class myFloatStack
+{
+    int stackPointer = 0;
+    float[] StackArray;
+    public void Push(float x)
+    {
+       // push data into stack
+    }
+
+    public float Pop()
+    {
+       // pop data into stack
+       return Pop_float_data;  //
     }
     ....
 }
