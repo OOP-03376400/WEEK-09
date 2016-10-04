@@ -13,5 +13,7 @@ Generic ช่วยให้ลดภาระในการเขียนโ
 
 เนื่องจาก  C# เป็นภาษาแบบ strong type ซึ่งจะมีความเข้มงวดในการใช้งานตัวแปรชนิดต่างๆ พิจารณาจากภาพต่อไปนี้
 <p align = "center">
-<img src="https://github.com/OOP-2559/WEEK-09/blob/master/imgs/Picture2.png" width="600">
+<img src="https://github.com/OOP-2559/WEEK-09/blob/master/imgs/Picture3.png" width="300">
+<img src="https://github.com/OOP-2559/WEEK-09/blob/master/imgs/Picture4.png" width="300">
+
 </p>
