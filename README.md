@@ -17,3 +17,24 @@ Generic ช่วยให้ลดภาระในการเขียนโ
 <img src="https://github.com/OOP-2559/WEEK-09/blob/master/imgs/Picture4.png" width="300">
 
 </p>
+
+เราอาจแก้ไขโดยการสร้างคลาสขึ้นมา เพื่อใช้เฉพาะกับชนิดข้อมูลต่างๆ เช่น
+``` cs
+class myIntStack
+{
+    int stackPointer = 0;
+    
+    public void Push(int x)
+    {
+       // push data into stack
+    }
+
+    public int Pop()
+    {
+       // pop data into stack
+       return Pop_data;
+    }
+    ....
+}
+
+```
