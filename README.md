@@ -1,5 +1,6 @@
 # WEEK-09
-Generics
-Generics คืออะไร?
-* Generic ช่วยให้ลดภาระในการเขียนโปรแกรม ในลักษณะที่มีอัลกอริทึมเดียวกันแต่ใช้ data type ต่างกัน
- * ตัวอย่าง Stack
+# Generics
+ 
+<p align = "center">
+<img src="https://github.com/OOP-2559/WEEK-09/blob/master/imgs/Slide1.PNG" width="500">
+</p>
